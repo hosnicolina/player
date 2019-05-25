@@ -1,0 +1,13 @@
+# Netscape HTTP Cookie File
+# http://www.netscape.com/newsref/std/cookie_spec.html
+# This is a generated file!  Do not edit.
+.youporn.com	TRUE	/	FALSE	1423921355	age_verified	1
+.tube8.com	FALSE	/	FALSE	1492285412	t8disclaimer	1
+www.tube8.com	FALSE	/	FALSE	1492285412	t8disclaimer	1
+.pornhub.com	TRUE	/	FALSE	1423921355	age_verified	1
+.pornhub.com	TRUE	/	FALSE	1530345382	_gid	GA1.2.2004685192.1530258982
+.pornhub.com	TRUE	/	FALSE	1561780191	ss	992648409379504063
+.pornhub.com	TRUE	/	FALSE	1593330982	_ga	GA1.2.408236514.1530258982
+.pornhub.com	TRUE	/	FALSE	3060574782	platform	pc
+.pornhub.com	TRUE	/	FALSE	3375848382	bs	zy6fft7p39i32vt5oubr072epeadpsiu
+.pornhub.com	TRUE	/	TRUE	3375848382	RNKEY	84153761*91366903:2500552308:3868598065:1
