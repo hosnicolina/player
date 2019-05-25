@@ -271,8 +271,8 @@ body{
 $seconds = get_option( 'kenplayer_seconds' ); if(!$seconds){ $seconds = 10; }
 ?>
 <div id="child">
-  <a href='#' onclick='this.parentNode.parentNode.removeChild(this.parentNode)'><img src="fancy_close.png"/></a>
   <?php echo $ads; ?>
+  <a href='#' onclick='this.parentNode.parentNode.removeChild(this.parentNode)'><img src="fancy_close.png"/></a>
 </div>
 <?php } ?>
 
